@@ -1,0 +1,14 @@
+slides_es
+slides_es/*
+Labs/Lab1/*.tex
+Labs/Lab2/*
+Labs/Lab3/*
+Labs/Lab4/*
+Labs/Lab5/*
+Labs/Lab1/*_solution.ipynb
+Labs/Lab2/*_solution.ipynb
+Labs/Lab3/*_solution.ipynb
+Labs/Lab4/*_solution.ipynb
+Labs/Lab5/*_solution.ipynb
+draft/
+draft/*
