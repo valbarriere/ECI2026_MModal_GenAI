@@ -3,7 +3,7 @@ slides_es/*
 Labs/Lab1/*.tex
 Labs/Lab2/*.tex
 Labs/Lab3/*
-Labs/Lab4/*
+Labs/Lab4/*.tex
 Labs/Lab5/*
 #Labs/Lab1/*_solution.ipynb
 #Labs/Lab2/*_solution.ipynb
