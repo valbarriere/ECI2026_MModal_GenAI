@@ -39,3 +39,8 @@ Como material de apoyo adicional, se incluyen dos tutoriales introductorios en [
 
 * [1_Hugging_Face_Transformers_Tutorial](https://colab.research.google.com/github/valbarriere/ECI2026_MModal_GenAI/blob/main/Tutoriales/1_Hugging_Face_Transformers_Tutorial.ipynb) — Introducción a la librería `transformers` de Hugging Face (pipelines, tokenizers, modelos preentrenados).
 * [2_Multimodalidad](https://colab.research.google.com/github/valbarriere/ECI2026_MModal_GenAI/blob/main/Tutoriales/2_Multimodalidad.ipynb) — Introducción a modelos y representaciones multimodales.
+
+Videos: 
+
+* Una explicacion mas en detalles de los AE varacionales: https://www.youtube.com/watch?v=qJeaCHQ1k2w
+
