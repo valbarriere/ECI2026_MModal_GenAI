@@ -9,6 +9,6 @@ Labs/Lab5/*.tex
 #Labs/Lab2/*_solution.ipynb
 #Labs/Lab3/*_solution.ipynb
 #Labs/Lab4/*_solution.ipynb
-Labs/Lab5/*_solution.ipynb
+#Labs/Lab5/*_solution.ipynb
 draft/
 draft/*
